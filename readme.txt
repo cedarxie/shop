@@ -1,6 +1,2 @@
-提交本地仓库
-fork
-没有pull,次日上班本地改的
-线下改动
-线上改
+update readme.txt 1st
 
